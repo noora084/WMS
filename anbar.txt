@@ -1,0 +1,10 @@
+apple 30 67T
+orange 32 100T
+bananaa 101 45T
+cherry 56 100T
+strawberry 120 20T
+carrot 12 12T
+banana 12 140T
+cucumber 32 120T
+avocado 3 150T
+grape 10 25T
